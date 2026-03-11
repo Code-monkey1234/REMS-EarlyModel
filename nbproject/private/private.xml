@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/UserStructureMainFolder/User.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/UserStructureMainFolder/Client.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/UserStructureMainFolder/Agent.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/UserStructureMainFolder/RealEstate.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/UserStructureUtil/UserFactory.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/UserStructureUtil/UserDatabase.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/UserStructureEnum/Role.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/PropertyStructureMainFolder/Subdivision.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/PropertyStructureMainFolder/Block.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/PropertyStructureMainFolder/Property.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/PropertyStructureMainFolder/Prices.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/PropertyStructureEnumFolder/LotStatus.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/PropertyStructureEnumFolder/LotType.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureMainFolder/Inquiry.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureMainFolder/Reservation.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureMainFolder/Payment.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureMainFolder/Receipt.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureMainFolder/Document.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureMainFolder/Notification.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureEnumFolder/DocumentType.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureEnumFolder/NotificationType.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureEnumFolder/NotificationStatus.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureEnumFolder/ReservationStatus.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureEnumFolder/PaymentOptions.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureUtilFolder/PaymentStrategy.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureUtilFolder/ReservationPayment.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureUtilFolder/CashPayment.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/TransactionStructureUtilFolder/InstallmentPayment.java</file>
+            <file>file:/C:/Users/User/Desktop/RealEstateManagementSystem/REMS-0.1/src/MyApp/Main.java</file>
+        </group>
+    </open-files>
+</project-private>
